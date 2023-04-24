@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/dasprid/enum" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/namshi/jose" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/spatie/laravel-ignition" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/spatie/flare-client-php" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/spatie/ignition" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/spatie/backtrace" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/league/config" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/laravel/pint" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/laravel/sanctum" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/jenssegers/agent" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/nunomaduro/termwind" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/lcobucci/clock" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/pragmarx/google2fa" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/fruitcake/php-cors" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/jaybizzle/crawler-detect" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/livewire/livewire" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/mobiledetect/mobiledetectlib" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/stella-maris/clock" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/psr/clock" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/andyabih/laravel-to-uml" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/php-open-source-saver/jwt-auth" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/laravel/jetstream" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/laravel/fortify" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/composer" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/uid" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/voteapp-webVersion/vendor/symfony/polyfill-uuid" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.0" />
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/voteapp-webVersion/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
